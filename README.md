@@ -30,6 +30,8 @@ My public repos don't share the whole story, since the majority of my work is hi
 
 [28k Homepage Project](https://github.com/adam-savard/28k-Homepage)
 
+[Keychron K2 Function Key Enabler for systemd](https://github.com/adam-savard/keychron-k2-function-keys-linux)
+
 ## Public Github Stats
 [![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adam-savard)](https://github.com/anuraghazra/github-readme-stats)
 
