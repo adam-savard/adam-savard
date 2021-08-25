@@ -25,6 +25,7 @@ My public repos don't share the whole story, since the majority of my work is hi
 
 ## My Favorite Repos
 [PIXI Table](https://github.com/adam-savard/pixi-js-table)
+
 [28k Homepage Project](https://github.com/adam-savard/28k-Homepage)
 
 ## Public Github Stats
