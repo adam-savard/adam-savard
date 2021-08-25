@@ -22,6 +22,8 @@ My public repos don't share the whole story, since the majority of my work is hi
 - Building APIs and routes 🟡
 - Express.JS 🟡
 - PIXI.JS 🟢
+- Bash/FISH scripting 🟡
+- AWS EC2 Management 🟡
 
 ## My Favorite Repos
 [PIXI Table](https://github.com/adam-savard/pixi-js-table)
