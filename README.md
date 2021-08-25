@@ -27,7 +27,7 @@ My public repos don't share the whole story, since the majority of my work is hi
 [PIXI Table](https://github.com/adam-savard/pixi-js-table)
 [28k Homepage Project](https://github.com/adam-savard/28k-Homepage)
 
-## Public Githuib Stats
+## Public Github Stats
 [![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adam-savard)](https://github.com/anuraghazra/github-readme-stats)
 
 
