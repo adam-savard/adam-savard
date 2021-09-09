@@ -35,4 +35,6 @@ My public repos don't share the whole story, since the majority of my work is hi
 ## Public Github Stats
 [![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adam-savard)](https://github.com/anuraghazra/github-readme-stats)
 
+## Current As Of 9/9/2021
 
+![Github Stats](https://user-images.githubusercontent.com/49501626/132719738-dbb0ad12-43a9-4755-99ae-5996495ec3e9.png)
