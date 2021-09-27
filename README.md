@@ -7,7 +7,7 @@ I'm a software developer currently working for The Black Arcs on their Citisketc
 My public repos don't share the whole story, since the majority of my work is hidden in a private repo; I have approx. 1700 commits not counted here. The language I've grown used to using is vanilla JS, so the majority of my projects focus on that as well.
 
 ## Skills
-⭕ - Begining exploration
+⭕ - Novice/just learning
 
 🟦 - Moderately confident
 
