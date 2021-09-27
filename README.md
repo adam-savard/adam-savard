@@ -7,27 +7,27 @@ I'm a software developer currently working for The Black Arcs on their Citisketc
 My public repos don't share the whole story, since the majority of my work is hidden in a private repo; I have approx. 1700 commits not counted here. The language I've grown used to using is vanilla JS, so the majority of my projects focus on that as well.
 
 ## Skills
-🔴 - Beginner Level
+⭕ - Begining exploration
 
-🟡 - Intermediate Level
+🟦 - Moderately confident
 
-🟢 - Advanced Level
+✅ - Very confident
 
-- JavaScript 🟢
-- Linux Administration (installed Arch btw) 🟡/🟢
-- Linux Terminal 🟡
-- HTML 🟢
-- CSS 🟡
-- Building complex systems (full stack) 🟢
-- NodeJS 🟢
-- Electron 🔴
-- React 🔴
-- Building APIs and routes 🟢
-- Express.JS 🟢
-- PIXI.JS 🟢
-- Bash/FISH scripting 🟡
-- AWS EC2 Management 🟡
-- Docker 🔴
+- ✅ JavaScript 
+- ✅ Linux Administration (installed Arch btw) 
+- 🟦 Linux Terminal 
+- ✅ HTML 
+- 🟦 CSS 
+- ✅ Building complex systems (full stack) 
+- ✅ NodeJS
+- ⭕ Electron 
+- ⭕ React 
+- ✅ Building APIs and routes 
+- ✅ Express.JS 
+- ✅ PIXI.JS 
+- 🟦 Bash/FISH scripting 
+- 🟦 AWS EC2 Management 
+- ⭕ Docker
 
 ## My Favorite Repos
 [PIXI Table](https://github.com/adam-savard/pixi-js-table)
