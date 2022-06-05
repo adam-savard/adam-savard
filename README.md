@@ -15,19 +15,19 @@ My public repos don't share the whole story, since the majority of my work is hi
 
 - ✅ JavaScript 
 - ✅ Linux Administration (installed Arch btw) 
-- 🟦 Linux Terminal 
+- ✅ Linux Terminal 
 - ✅ HTML 
-- 🟦 CSS 
+- ✅ CSS 
 - ✅ Building complex systems (full stack) 
 - ✅ NodeJS
-- ⭕ Electron 
+- 🟦 Electron 
 - ⭕ React 
 - ✅ Building APIs and routes 
 - ✅ Express.JS 
 - ✅ PIXI.JS 
-- 🟦 Bash/FISH scripting 
-- 🟦 AWS EC2 Management 
-- ⭕ Docker
+- ✅ Bash/FISH scripting 
+- ✅ AWS EC2 Management 
+- 🟦 Docker
 
 ## My Favorite Repos
 [PIXI Table](https://github.com/adam-savard/pixi-js-table)
