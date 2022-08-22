@@ -28,6 +28,10 @@ Below is a table of skills that I've developed related to software development:
 
 To get in contact with me for any reason, please send an email to `savardfs at gmail dot com`, and I will do my best to get back to you promptly.
 
+## Current Projects
+
+At the moment, I am experimenting with my new [Clockwork PI DevTerm a04](https://www.clockworkpi.com/devterm); for more information, [see my github repository where I keep my tweaks/thoughts](https://github.com/adam-savard/devterm-a04)
+
 ## Public Github Stats
 
 These stats do not reflect the work that is done in private repositories.
