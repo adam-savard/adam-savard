@@ -1,44 +1,35 @@
-## Cat Pictures and Code
+# Adam Savard
 
-You've found my github page! I'm glad you came over.
+## Summary
 
-I'm a software developer currently working for The Black Arcs on their Citisketch product (see [Citisketch](http://www.citisketch.com) and [The Black Arcs](http://www.blackarcs.org)).
+I graduated from NBCC Fredericton in 2019 as a Programmer Analyst; I've been working for [The Black Arcs](https://github.com/blackarcs) ([see here also](https://blackarcs.org/)) since 2019 and am currently their Stack Logic Alchemist. This is equiavalent to a Senior Software Developer.
 
-My public repos don't share the whole story, since the majority of my work is hidden in a private repo; I have approx. 1700 commits not counted here. The language I've grown used to using is vanilla JS, so the majority of my projects focus on that as well.
+I've helped to develop their Citisketch product since I was brought on board, and have accrued a great many skills out of necessity. See [Skills](#skills) for more information.
 
 ## Skills
-⭕ - Novice/just learning
 
-🟦 - Moderately confident
+Below is a table of skills that I've developed related to software development:
 
-✅ - Very confident
+| Language/Ecosystem/Skill | Level of Confidence | Notes |
+|---|---|---|
+| Javascript | High | The majority of my projects are written in Javascript/NodeJS; see my repositories tab for details. |
+| Node JS | High | The command line tool used by The Black Arcs is written in Node JS, and was developed by me. |
+| Docker | Medium | I've built the CI/CD system for The Black Arcs using Docker containers. Still more to learn, but the base is there. |
+| System Administration (Linux) | High | I have maintained the servers for The Black Arcs for over 2 years, and experiment with my own homelab to learn further. |
+| Terminal (BASH/Linux) | High | I am very familiar with the terminal, and wrote the command line application used by The Black Arcs for database administration. |
+| Markdown | High | Markdown is my preferred method of writing documentation. |
+| Julia | Low | I've implemented a simple REST API in Julia and am learning to leverage the language further |
+| Full Stack Development | High | I have worked on all areas of the Black Arcs codebase, including the API, frontend/client apps, CI/CD, systems admin, etc. |
+| AWS | Medium | I have maintained all the AWS systems in use by The Black Arcs since 2020. |
+| Bash Scripting | High | I have written custom bash scripts to aid in systems administration. |
+| PIXI.JS | High | I have used PIXI.JS extensively over my tenure with The Black Arcs and am very familiar with it. |
 
-- ✅ JavaScript 
-- ✅ Linux Administration (installed Arch btw) 
-- ✅ Linux Terminal 
-- ✅ HTML 
-- ✅ CSS 
-- ✅ Building complex systems (full stack) 
-- ✅ NodeJS
-- 🟦 Electron 
-- ⭕ React 
-- ✅ Building APIs and routes 
-- ✅ Express.JS 
-- ✅ PIXI.JS 
-- ✅ Bash/FISH scripting 
-- ✅ AWS EC2 Management 
-- 🟦 Docker
+## Get in contact
 
-## My Favorite Repos
-[PIXI Table](https://github.com/adam-savard/pixi-js-table)
-
-[28k Homepage Project](https://github.com/adam-savard/28k-Homepage)
-
-[Keychron K2 Function Key Enabler for systemd](https://github.com/adam-savard/keychron-k2-function-keys-linux)
+To get in contact with me for any reason, please send an email to `savardfs at gmail dot com`, and I will do my best to get back to you promptly.
 
 ## Public Github Stats
+
+These stats do not reflect the work that is done in private repositories.
+
 [![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adam-savard)](https://github.com/anuraghazra/github-readme-stats)
-
-## Current As Of 9/9/2021
-
-![Github Stats](https://user-images.githubusercontent.com/49501626/132719738-dbb0ad12-43a9-4755-99ae-5996495ec3e9.png)
