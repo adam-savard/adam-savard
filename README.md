@@ -4,7 +4,7 @@
 
 I graduated from NBCC Fredericton in 2019 as a Programmer Analyst; I've been working for [The Black Arcs](https://github.com/blackarcs) ([see here also](https://blackarcs.org/)) since 2019 and am currently their Stack Logic Alchemist. This is equivalent to a Senior Software Developer.
 
-I've helped to develop their Citisketch product since I was brought on board, and have accrued a great many skills out of necessity. See [Skills](#skills) for more information.
+I've helped to develop their Citisketch product since I was brought on board, and have accrued a great many skills related to developing software and complex systems. See [Skills](#skills) for more information.
 
 ## Skills
 
