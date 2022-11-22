@@ -36,4 +36,4 @@ At the moment, I am experimenting with my new [Clockwork PI DevTerm a04](https:/
 
 These stats do not reflect the work that is done in private repositories.
 
-[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adam-savard)](https://github.com/anuraghazra/github-readme-stats)
+[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adam-savard&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
