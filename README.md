@@ -2,7 +2,7 @@
 
 ## Summary
 
-I graduated from NBCC Fredericton in 2019 as a Programmer Analyst; I worked for [The Black Arcs](https://github.com/blackarcs) ([see here also](https://blackarcs.org/)) since 2019 as a senior developer.
+I graduated from NBCC Fredericton in 2019 as a Programmer Analyst; I worked for [The Black Arcs](https://github.com/blackarcs) ([see here also](https://blackarcs.org/)) from  April 2019 to April 2023 as a senior developer.
 
 I helped to develop their Citisketch product since I was brought on board, and have accrued a great many skills related to developing software and complex systems. See [Skills](#skills) for more information.
 
