@@ -18,7 +18,7 @@ Below is a table of skills that I've developed related to software development:
 | System Administration (Linux) | High | I have maintained the servers for The Black Arcs for over 2 years, and experiment with my own homelab to learn further. |
 | Terminal (BASH/Linux) | High | I am very familiar with the terminal, and wrote the command line application used by The Black Arcs for database administration. |
 | Markdown | High | Markdown is my preferred method of writing documentation. |
-| Julia | Low | I've implemented a simple REST API in Julia and am learning to leverage the language further |
+| Julia | Medium | I've implemented a simple REST API in Julia and am learning to leverage the language further |
 | Full Stack Development | High | I have worked on all areas of the Black Arcs codebase, including the API, frontend/client apps, CI/CD, systems admin, etc. |
 | AWS | Medium | I have maintained all the AWS systems in use by The Black Arcs since 2020. |
 | Bash Scripting | High | I have written custom bash scripts to aid in systems administration. |
