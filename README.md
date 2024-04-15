@@ -2,9 +2,9 @@
 
 ## Summary
 
-I graduated from NBCC Fredericton in 2019 as a Programmer Analyst; I worked for [The Black Arcs](https://github.com/blackarcs) ([see here also](https://blackarcs.org/)) from  April 2019 to the present day as a senior developer.
+I graduated from NBCC Fredericton in 2019 as a Programmer Analyst; I work for [The Black Arcs](https://github.com/blackarcs) ([see here also](https://blackarcs.org/)) since  April 2019 as a senior developer.
 
-I helped to develop their Citisketch product since I was brought on board, and have accrued a great many skills related to developing software and complex systems. See [Skills](#skills) for more information.
+I help to develop their Citisketch product  and have accrued a great many skills related to developing software and complex systems. See [Skills](#skills) for more information.
 
 ## Skills
 
@@ -23,10 +23,6 @@ Below is a table of skills that I've developed related to software development:
 | AWS | Medium | I have maintained all the AWS systems in use by The Black Arcs since 2020. |
 | Bash Scripting | High | I have written custom bash scripts to aid in systems administration. |
 | PIXI.JS | High | I have used PIXI.JS extensively over my tenure with The Black Arcs and am very familiar with it. |
-
-## Get in contact
-
-To get in contact with me for any reason, please send an email to `savardfs at gmail dot com`, and I will do my best to get back to you promptly.
 
 ## Current Projects
 
